@@ -14,5 +14,5 @@ The algorithm that we have used is Long short-term memory (LSTM) and Embedding. 
 prediction challenges. The accuracy produced by the sentiment analysis model is expected to be more than 85%. At the end of the project, we managed to get 99% of accuracy in predicting the sentiment of the
 tweets.
 
-#2. System Design Flowchart
+# 2. System Design Flowchart
 ![image](https://github.com/nheelam/sentiment-analysis/assets/64530832/3195fa18-cc0e-4d1b-884e-63cffcbeb4c9)
